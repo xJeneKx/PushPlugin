@@ -1,0 +1,30 @@
+{
+  "name": "PushPlugin",
+  "version": "1.0.0",
+  "description": "PushPlugin",
+  "cordova": {
+    "id": "PushPlugin",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xJeneKx/PushPlugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "push",
+    "phonegap",
+    "ionic"
+  ],
+  "author": "xJeneK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xJeneKx/PushPlugin/issues"
+  },
+  "homepage": "https://github.com/xJeneKx/PushPlugin#readme"
+}
